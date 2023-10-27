@@ -1,2 +1,2 @@
 # Banking_App_Ineuron
-This is the Java Internship task by Ineuron. Submitted for Completion of Internship.
+This is the Java Internship task by Ineuron. Submitted for Completion of Internship. The primary goal of the banking application is to provide a user-friendly and secure platform for customers to manage their accounts and conduct banking transactions seamlessly. By adhering to a layered architecture approach, the application ensures a clear separation of concerns, making it scalable, maintainable, and extensible for potential future enhancements.
